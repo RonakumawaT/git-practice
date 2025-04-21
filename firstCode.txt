@@ -1,1 +1,6 @@
 hello world !!@
+take input from user 
+and add the values
+
+use -a to commit the file without adding it to the staging are
+use git diff commant to check the difference of work among previous and present
